@@ -1,0 +1,5 @@
+﻿---
+BasedOnStyle: Google
+AllowAllArgumentsOnNextLine: "true"
+BinPackArguments: "false"
+BinPackParameters: "false"
